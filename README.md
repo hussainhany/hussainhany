@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussainhany&label=Profile%20views&color=0e75b6&style=flat" alt="hussainhany" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussainhany" alt="hussainhany" /></a> </p>
+<a href="https://app.daily.dev/hussainhany"><img src="https://api.daily.dev/devcards/b66b59441e974e27bb8c15ad5f72044c.png?r=wnt" width="400" alt="Hussain's Dev Card"/></a>
 
 - 👨‍💻 All of my projects are available at [https://animation-portfolio-hussain.netlify.app/](https://animation-portfolio-hussain.netlify.app/)
 
